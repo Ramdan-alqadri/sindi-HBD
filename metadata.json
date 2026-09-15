@@ -1,0 +1,6 @@
+{
+  "name": "Sindi's Birthday Surprise",
+  "description": "A personal, interactive digital scrapbook and birthday surprise for Sindi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
